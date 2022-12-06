@@ -1,0 +1,14 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header > nav > ul > li > a {
+    color: white;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+    padding: 8px;
+}
+
